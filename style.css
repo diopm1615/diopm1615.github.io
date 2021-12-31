@@ -2,54 +2,54 @@
 
 /* base styles */
 * {
-  margin: 10;
-  font-family: "Quicksand";
-  color: rgb(17, 15, 15);
+margin: 10;
+font-family: "Quicksand";
+color: rgb(17, 15, 15);
 }
 
 .one{
-    text-align: center;
-    background-color: rgb(246, 250, 250);
-    margin-top: 50px;
-    margin-bottom: 50px;
-    color: rgb(9, 44, 73);
-     
+margin-left: 200px;
+background-color: rgb(246, 250, 250);
+margin-top: 50px;
+margin-bottom: 50px;
+color: rgb(9, 44, 73);
+  
 
 }
 
 .navbar {
-    text-align: center;
-    padding: 20;
-    
+margin-left: 200px;
+padding: 20;
+
 }
 
 .navbar h1 {
-  color: #f1356d;
+color: #f1356d;
 }
 
 .navbar a:hover {
-  color: #f1356d;
+color: #f1356d;
 }
 .content {
-  max-width: 600px;
-  margin: 40px auto;
-  padding: 20px;
+max-width: 600px;
+margin: 40px auto;
+padding: 20px;
 }
 .lab {
-  max-width: 400px;
-  margin: 0 auto;
-  text-align: center;
+max-width: 400px;
+margin: 0 auto;
+text-align: center;
 }
 
 .contact {
-  max-width: 400px;
-  margin: 0 auto;
-  text-align: center;
+max-width: 400px;
+margin: 0 auto;
+text-align: center;
 }
 .test {
-  max-width: 400px;
-  margin: 0 auto;
-  text-align: center;
+max-width: 400px;
+margin: 0 auto;
+text-align: center;
 }
 
 /* homepage */
@@ -57,20 +57,20 @@
 .homepara1 {
 max-width: 800px;
 margin-top: 20px;
-margin-left: 500px;
-  
-  }
+margin-left: 200px;
+
+}
 
 .homepara2 {
 max-width: 800px;
 margin-top: 10px;
-margin-left: 500px;
+margin-left: 200px;
 }
 
 /* Lab page */
 
 .labpara1 {
-  margin-bottom:10px;
+margin-bottom:10px;
 }
 
 /* Resume page */
@@ -78,47 +78,47 @@ margin-left: 500px;
 .resume {
 max-width: 800px;
 margin-left: 100px;   
-  }
+}
 
 /* Contact page*/
 
 
 /* Footer*/
 .footer{
-  margin-top: 1rem;
-  padding: 1rem;
-  background-color: rgb(223, 221, 215);
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
+margin-top: 1rem;
+padding: 1rem;
+background-color: rgb(223, 221, 215);
+position: fixed;
+bottom: 0;
+left: 0;
+width: 100%;
 }
 
 .footerres{
-    margin-top: 1rem;
-    padding: 1rem;
-    background-color: rgb(223, 221, 215);
-    position: relative;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-  }
+margin-top: 1rem;
+padding: 1rem;
+background-color: rgb(223, 221, 215);
+position: relative;
+bottom: 0;
+left: 0;
+width: 100%;
+}
 
 .vid{
 max-width: 800px;
-margin-left: 500px; 
+margin-left: 200px; 
 margin-bottom: 30px;
 }
 
 .img1{
-    margin-left: 700px;
-    padding: 30px;
+margin-left: 200px;
+padding: auto;
 
 }
 
 .img2{
-    margin-left: 700px;
-    padding: auto;
-    background-color: rgb(200, 233, 233);
-    width: 25%;
+margin-left: 200px;
+padding: auto;
+background-color: rgb(200, 233, 233);
+width: 25%;
 }
